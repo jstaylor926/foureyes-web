@@ -1,0 +1,14 @@
+.parallax {
+	background-image: url('https://foureyes-web.s3.us-east-2.amazonaws.com/assets/img/logoResize.png');
+	background-color: #1d1723;
+	min-height: 300px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+    background-size: 50%;
+    width: 100%;
+}
+.team-header-image {
+opacity: 50%;
+}
+
