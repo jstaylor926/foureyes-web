@@ -6882,7 +6882,7 @@ img {
 }
 
 .info.info-hover:hover .icon.icon-primary+.info-title {
-  color: #f96332;
+  color: #000fff;
 }
 
 .info.info-hover:hover .icon.icon-success+.info-title {
@@ -6959,7 +6959,7 @@ img {
 }
 
 .icon.icon-primary {
-  color: #f96332;
+  color: purple;
 }
 
 .icon.icon-primary.icon-circle {
@@ -8758,7 +8758,7 @@ img {
 }
 
 .page-header {
-  min-height: 100vh;
+  min-height: 50vh;
   max-height: 999px;
   padding: 0;
   color: #FFFFFF;
@@ -8773,7 +8773,7 @@ img {
 }
 
 .page-header.page-header-small {
-  min-height: 60vh;
+  min-height: 40vh;
   max-height: 440px;
 }
 
