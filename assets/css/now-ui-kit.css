@@ -6049,7 +6049,7 @@ textarea.form-control:active {
 
 .navbar p {
   line-height: 1.8em;
-  font-size: 1em;
+  font-size: 1.5em;
   font-weight: 400;
 }
 
@@ -7980,7 +7980,7 @@ img {
 }
 
 .card-product:not(.card-plain) .card-image {
-  padding: 15px;
+  padding: 5px;
 }
 
 .card-raised {
@@ -8773,8 +8773,8 @@ img {
 }
 
 .page-header.page-header-small {
-  min-height: 40vh;
-  max-height: 440px;
+  min-height: 60vh;
+  max-height: px;
 }
 
 .page-header:before {
